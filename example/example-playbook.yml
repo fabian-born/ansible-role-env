@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+
+  gather_facts: false
+
+
+  roles:
+    - env_vars
+    - other_role

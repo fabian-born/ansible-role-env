@@ -1,5 +1,5 @@
 # ansible-role-env
-### Example
+### Example for use
 
 ```bash
 ansible-playbook example-playbook.yml -e env_name=examplecluster 
